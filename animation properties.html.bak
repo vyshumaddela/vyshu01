@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+@keyframes demo
+{
+   from
+   {
+      background-color:red;
+   }
+   to
+   {  
+
+      background-color:yellow;
+    }
+}
+body
+{
+    animation-name:demo;
+	animation-duration:1s;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
